@@ -1,14 +1,20 @@
 <h1 align="center">Olá! Seja bem-vindo ao meu GitHub 👋</h1>
-<h3 align="center">Desenvolvedor Backend Java em formação 🚀</h3>
+
+<h3 align="center">
+  Desenvolvedor Backend Java em formação 🚀
+</h3>
 
 ---
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
-🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)<br>
-💻 Desenvolvedor iniciante com foco em Backend Java e boas práticas de Programação Orientada a Objetos (POO)<br>
-🚀 Buscando oportunidades de estágio e projetos colaborativos para adquirir experiência prática<br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)<br><br>
+
+💻 Desenvolvedor iniciante com foco em Backend Java e boas práticas de Programação Orientada a Objetos (POO)<br><br>
+
+🚀 Buscando oportunidades de estágio e projetos colaborativos para adquirir experiência prática<br><br>
+
 🧠 Acredito que aprender construindo projetos é a melhor forma de evoluir
 </p>
 
