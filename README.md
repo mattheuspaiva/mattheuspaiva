@@ -22,17 +22,21 @@
 
 <h2 align="left">📱 Contatos</h2>
 
-<div align="left" style="display: flex; gap: 10px;">
+<div align="left">
   <a href="https://www.instagram.com/_mattheuspaiva?igsh=NXo4djZ1eHptejJ2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="Instagram logo"/>
   </a>
+
+  <img width="12" />
 
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn logo"/>
   </a>
 
+  <img width="12" />
+
   <a href="mailto:franciscomatheusdepaiva@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="Gmail logo"/>
   </a>
 </div>
 
