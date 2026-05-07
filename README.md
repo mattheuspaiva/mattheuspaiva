@@ -23,7 +23,7 @@
 <h2 align="left">📱 Contatos</h2>
 
 <div align="left">
-  <a href="https://www.instagram.com/matheuspaiva__?igsh=NXo4djZ1eHptejJ2" target="_blank">
+  <a href="https://www.instagram.com/_mattheuspaiva?igsh=NXo4djZ1eHptejJ2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"/>
   </a>
 
